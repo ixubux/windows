@@ -1,13 +1,13 @@
 {
   "Version": "1.0",
-  "CreatedAt": "2025-05-25T17:24:17.6616007Z",
+  "CreatedAt": "2025-06-09T08:52:49.6286279Z",
   "WindowsApps": {
     "IsIncluded": true,
     "Items": [
       {
         "Name": "3D Viewer",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -19,7 +19,7 @@
       {
         "Name": "Mixed Reality Portal",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -31,7 +31,7 @@
       {
         "Name": "Bing Search",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -43,7 +43,7 @@
       {
         "Name": "Microsoft News",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -55,7 +55,7 @@
       {
         "Name": "MSN Weather",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -67,7 +67,7 @@
       {
         "Name": "Camera",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -79,7 +79,7 @@
       {
         "Name": "Clipchamp",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -103,7 +103,7 @@
       {
         "Name": "Cortana",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -115,7 +115,7 @@
       {
         "Name": "Get Help",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -139,7 +139,7 @@
       {
         "Name": "Dev Home",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -151,7 +151,7 @@
       {
         "Name": "Microsoft Family Safety",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -163,7 +163,7 @@
       {
         "Name": "Mail and Calendar",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -175,7 +175,7 @@
       {
         "Name": "Skype",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -187,7 +187,7 @@
       {
         "Name": "Microsoft Teams",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -199,7 +199,7 @@
       {
         "Name": "Feedback Hub",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -211,7 +211,7 @@
       {
         "Name": "Maps",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -223,7 +223,7 @@
       {
         "Name": "Terminal",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -235,7 +235,7 @@
       {
         "Name": "Office Hub",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -246,7 +246,7 @@
       {
         "Name": "OneNote",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -258,7 +258,7 @@
       {
         "Name": "Outlook for Windows",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -270,7 +270,7 @@
       {
         "Name": "Paint 3D",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -305,7 +305,7 @@
       {
         "Name": "Snipping Tool",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -317,7 +317,7 @@
       {
         "Name": "People",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -329,7 +329,7 @@
       {
         "Name": "Power Automate",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -341,7 +341,7 @@
       {
         "Name": "Quick Assist",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -353,7 +353,7 @@
       {
         "Name": "Solitaire Collection",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -365,7 +365,7 @@
       {
         "Name": "Xbox",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -377,7 +377,7 @@
       {
         "Name": "Xbox Identity Provider",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -389,7 +389,7 @@
       {
         "Name": "Xbox Game Bar Plugin",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -401,7 +401,7 @@
       {
         "Name": "Xbox Live In-Game Experience",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -413,7 +413,7 @@
       {
         "Name": "Xbox Game Bar",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -425,7 +425,7 @@
       {
         "Name": "Microsoft Store",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -437,7 +437,7 @@
       {
         "Name": "Media Player",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -449,7 +449,7 @@
       {
         "Name": "Movies & TV",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -461,7 +461,7 @@
       {
         "Name": "Sound Recorder",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -473,7 +473,7 @@
       {
         "Name": "Sticky Notes",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -485,7 +485,7 @@
       {
         "Name": "Tips",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -496,7 +496,7 @@
       {
         "Name": "To Do",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -520,7 +520,7 @@
       {
         "Name": "Phone Link",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -532,7 +532,7 @@
       {
         "Name": "Copilot",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -544,7 +544,7 @@
       {
         "Name": "Microsoft Edge",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -556,7 +556,7 @@
       {
         "Name": "OneDrive",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -568,7 +568,7 @@
       {
         "Name": "Internet Explorer",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -580,7 +580,7 @@
       {
         "Name": "PowerShell ISE",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -592,7 +592,7 @@
       {
         "Name": "Quick Assist",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -604,7 +604,7 @@
       {
         "Name": "Steps Recorder",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -616,7 +616,7 @@
       {
         "Name": "Windows Media Player",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -628,7 +628,7 @@
       {
         "Name": "WordPad",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -640,7 +640,7 @@
       {
         "Name": "Paint (Legacy)",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -652,7 +652,7 @@
       {
         "Name": "OpenSSH Client",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -664,7 +664,7 @@
       {
         "Name": "OpenSSH Server",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -676,7 +676,7 @@
       {
         "Name": "Subsystem for Linux",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -688,7 +688,7 @@
       {
         "Name": "Windows Hypervisor Platform",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -700,7 +700,7 @@
       {
         "Name": "Hyper-V",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -712,7 +712,7 @@
       {
         "Name": "Hyper-V Management Tools",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -724,7 +724,7 @@
       {
         "Name": ".NET Framework 3.5",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -736,7 +736,7 @@
       {
         "Name": "Windows Sandbox",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -748,7 +748,7 @@
       {
         "Name": "Recall",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -3409,7 +3409,7 @@
       {
         "Name": "App Launch Tracking",
         "PackageName": null,
-        "IsSelected": true,
+        "IsSelected": false,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -3591,7 +3591,7 @@
       {
         "Name": "Web Search",
         "PackageName": null,
-        "IsSelected": true,
+        "IsSelected": false,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
