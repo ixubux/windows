@@ -73,7 +73,7 @@ for %%F in (*) do (
         set "isKnown=0"
         
         :: Check against known extensions (case-insensitive)
-        for %%E in (.pdf .doc .docx .txt .xls .xlsx .ppt .pptx .jpg .jpeg .png .gif .bmp .webp .mp4 .mkv .avi .mov .webm .mp3 .wav .flac .aac .ogg .m4a .wma .zip .rar .7z .tar .gz .xz .bat .ps1 .sh .js .py .exe .msi .dmg .pkg .deb .rpm .dll) do (
+        for %%E in (.pdf .doc .docx .txt .xls .xlsx .ppt .pptx .jpg .jpeg .png .gif .bmp .webp .mp4 .mkv .avi .mov .webm .mp3 .wav .flac .aac .ogg .m4a .wma .zip .rar .7z .tar .gz .xz .iso .bat .ps1 .sh .js .py .exe .msi .dmg .pkg .deb .rpm .dll) do (
             if /i "!ext!"=="%%E" set "isKnown=1"
         )
         
