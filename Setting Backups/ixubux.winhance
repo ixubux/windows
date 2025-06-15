@@ -1,6 +1,6 @@
 {
   "Version": "1.0",
-  "CreatedAt": "2025-06-09T08:52:49.6286279Z",
+  "CreatedAt": "2025-06-15T10:33:20.4897464Z",
   "WindowsApps": {
     "IsIncluded": true,
     "Items": [
@@ -2453,7 +2453,7 @@
       {
         "Name": "Left Aligned Taskbar",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -3682,7 +3682,7 @@
       {
         "Name": "Do Not Include Drivers with Updates",
         "PackageName": null,
-        "IsSelected": true,
+        "IsSelected": false,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
