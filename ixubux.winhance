@@ -1,0 +1,4206 @@
+{
+  "Version": "1.0",
+  "CreatedAt": "2025-06-15T10:33:20.4897464Z",
+  "WindowsApps": {
+    "IsIncluded": true,
+    "Items": [
+      {
+        "Name": "3D Viewer",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH42THS",
+          "GroupName": "3D/Mixed Reality",
+          "Description": "View 3D models and animations"
+        }
+      },
+      {
+        "Name": "Mixed Reality Portal",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NG1H8B3ZC7M",
+          "GroupName": "3D/Mixed Reality",
+          "Description": "Portal for Windows Mixed Reality experiences"
+        }
+      },
+      {
+        "Name": "Bing Search",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NZBF4GT040C",
+          "GroupName": "Bing",
+          "Description": "Bing search integration for Windows"
+        }
+      },
+      {
+        "Name": "Microsoft News",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHVFW",
+          "GroupName": "Bing",
+          "Description": "Microsoft News app"
+        }
+      },
+      {
+        "Name": "MSN Weather",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJ3Q2",
+          "GroupName": "Bing/Search",
+          "Description": "Weather forecasts and information"
+        }
+      },
+      {
+        "Name": "Camera",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJBBG",
+          "GroupName": "Camera/Media",
+          "Description": "Windows Camera app"
+        }
+      },
+      {
+        "Name": "Clipchamp",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9P1J8S7CCWWT",
+          "GroupName": "Camera/Media",
+          "Description": "Video editor app"
+        }
+      },
+      {
+        "Name": "Alarms & Clock",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJ3PR",
+          "GroupName": "System Utilities",
+          "Description": "Clock, alarms, timer, and stopwatch app"
+        }
+      },
+      {
+        "Name": "Cortana",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NFFX4SZZ23L",
+          "GroupName": "System Utilities",
+          "Description": "Microsoft's virtual assistant"
+        }
+      },
+      {
+        "Name": "Get Help",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9PKDZBMV1H3T",
+          "GroupName": "System Utilities",
+          "Description": "Microsoft support app"
+        }
+      },
+      {
+        "Name": "Calculator",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHVN5",
+          "GroupName": "System Utilities",
+          "Description": "Calculator app with standard, scientific, and programmer modes"
+        }
+      },
+      {
+        "Name": "Dev Home",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHVN5",
+          "GroupName": "Development",
+          "Description": "Development environment for Windows"
+        }
+      },
+      {
+        "Name": "Microsoft Family Safety",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9PDJDJS743XF",
+          "GroupName": "Communication",
+          "Description": "Family safety and screen time management"
+        }
+      },
+      {
+        "Name": "Mail and Calendar",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHVQM",
+          "GroupName": "Communication",
+          "Description": "Microsoft Mail and Calendar apps"
+        }
+      },
+      {
+        "Name": "Skype",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJ364",
+          "GroupName": "Communication",
+          "Description": "Video calling and messaging app"
+        }
+      },
+      {
+        "Name": "Microsoft Teams",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XP8BT8DW290MPQ",
+          "GroupName": "Communication",
+          "Description": "Team collaboration and communication app"
+        }
+      },
+      {
+        "Name": "Feedback Hub",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH4R32N",
+          "GroupName": "System Tools",
+          "Description": "App for sending feedback to Microsoft"
+        }
+      },
+      {
+        "Name": "Maps",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRDTBVB",
+          "GroupName": "System Tools",
+          "Description": "Microsoft Maps app"
+        }
+      },
+      {
+        "Name": "Terminal",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9N0DX20HK701",
+          "GroupName": "System Tools",
+          "Description": "Modern terminal application for Windows"
+        }
+      },
+      {
+        "Name": "Office Hub",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "GroupName": "Office",
+          "Description": "Microsoft Office app hub"
+        }
+      },
+      {
+        "Name": "OneNote",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XPFFZHVGQWWLHB",
+          "GroupName": "Office",
+          "Description": "Microsoft note-taking app"
+        }
+      },
+      {
+        "Name": "Outlook for Windows",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NRX63209R7B",
+          "GroupName": "Office",
+          "Description": "Reimagined Outlook app for Windows"
+        }
+      },
+      {
+        "Name": "Paint 3D",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "GroupName": "Graphics",
+          "Description": "3D modeling and editing app"
+        }
+      },
+      {
+        "Name": "Paint",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9PCFS5B6T72H",
+          "GroupName": "Graphics",
+          "Description": "Traditional image editing app"
+        }
+      },
+      {
+        "Name": "Photos",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJBH4",
+          "GroupName": "Graphics",
+          "Description": "Photo viewing and editing app"
+        }
+      },
+      {
+        "Name": "Snipping Tool",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9MZ95KL8MR0L",
+          "GroupName": "Graphics",
+          "Description": "Screen capture and annotation tool"
+        }
+      },
+      {
+        "Name": "People",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH10PG8",
+          "GroupName": "Social",
+          "Description": "Contact management app"
+        }
+      },
+      {
+        "Name": "Power Automate",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NFTCH6J7FHV",
+          "GroupName": "Automation",
+          "Description": "Desktop automation tool"
+        }
+      },
+      {
+        "Name": "Quick Assist",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9P7BP5VNWKX5",
+          "GroupName": "Support",
+          "Description": "Remote assistance tool"
+        }
+      },
+      {
+        "Name": "Solitaire Collection",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHWD2",
+          "GroupName": "Games",
+          "Description": "Microsoft Solitaire Collection games"
+        }
+      },
+      {
+        "Name": "Xbox",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9MV0B5HZVK9Z",
+          "GroupName": "Games",
+          "Description": "Xbox App for Windows"
+        }
+      },
+      {
+        "Name": "Xbox Identity Provider",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRD1HKW",
+          "GroupName": "Games",
+          "Description": "Authentication service for Xbox Live and related Microsoft gaming services"
+        }
+      },
+      {
+        "Name": "Xbox Game Bar Plugin",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH537C2",
+          "GroupName": "Games",
+          "Description": "Extension component for Xbox Game Bar providing additional functionality"
+        }
+      },
+      {
+        "Name": "Xbox Live In-Game Experience",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NKNC0LD5NN6",
+          "GroupName": "Games",
+          "Description": "Core component for Xbox Live services within games"
+        }
+      },
+      {
+        "Name": "Xbox Game Bar",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NZKPSTSNW4P",
+          "GroupName": "Games",
+          "Description": "Gaming overlay with screen capture, performance monitoring, and social features"
+        }
+      },
+      {
+        "Name": "Microsoft Store",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJBMP",
+          "GroupName": "Store",
+          "Description": "App store for Windows"
+        }
+      },
+      {
+        "Name": "Media Player",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJ3PT",
+          "GroupName": "Media",
+          "Description": "Music player app"
+        }
+      },
+      {
+        "Name": "Movies & TV",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFJ3P2",
+          "GroupName": "Media",
+          "Description": "Video player app"
+        }
+      },
+      {
+        "Name": "Sound Recorder",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9WZDNCRFHWKN",
+          "GroupName": "Media",
+          "Description": "Audio recording app"
+        }
+      },
+      {
+        "Name": "Sticky Notes",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH4QGHW",
+          "GroupName": "Productivity",
+          "Description": "Note-taking app"
+        }
+      },
+      {
+        "Name": "Tips",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "GroupName": "Productivity",
+          "Description": "Windows tutorial app"
+        }
+      },
+      {
+        "Name": "To Do",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NBLGGH5R558",
+          "GroupName": "Productivity",
+          "Description": "Task management app"
+        }
+      },
+      {
+        "Name": "Notepad",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9MSMLRH6LZF3",
+          "GroupName": "Productivity",
+          "Description": "Text editing app"
+        }
+      },
+      {
+        "Name": "Phone Link",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NMPJ99VJBWV",
+          "GroupName": "Phone",
+          "Description": "Connect your Android or iOS device to Windows"
+        }
+      },
+      {
+        "Name": "Copilot",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NHT9RB2F4HD",
+          "GroupName": "AI",
+          "Description": "AI assistant for Windows, includes Copilot provider and Store components"
+        }
+      },
+      {
+        "Name": "Microsoft Edge",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XPFFTQ037JWMHS",
+          "GroupName": "Browsers",
+          "Description": "Microsoft's web browser (requires special removal process)"
+        }
+      },
+      {
+        "Name": "OneDrive",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.OneDrive",
+          "GroupName": "System",
+          "Description": "Microsoft's cloud storage service (requires special removal process)"
+        }
+      },
+      {
+        "Name": "Internet Explorer",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Browser.InternetExplorer",
+          "GroupName": "Browser",
+          "Description": "Legacy web browser"
+        }
+      },
+      {
+        "Name": "PowerShell ISE",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.Windows.PowerShell.ISE",
+          "GroupName": "Development",
+          "Description": "PowerShell Integrated Scripting Environment"
+        }
+      },
+      {
+        "Name": "Quick Assist",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "App.Support.QuickAssist",
+          "GroupName": "System",
+          "Description": "Remote assistance app"
+        }
+      },
+      {
+        "Name": "Steps Recorder",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "App.StepsRecorder",
+          "GroupName": "Utilities",
+          "Description": "Screen recording tool"
+        }
+      },
+      {
+        "Name": "Windows Media Player",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Media.WindowsMediaPlayer",
+          "GroupName": "Media",
+          "Description": "Classic media player"
+        }
+      },
+      {
+        "Name": "WordPad",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.Windows.WordPad",
+          "GroupName": "Productivity",
+          "Description": "Rich text editor"
+        }
+      },
+      {
+        "Name": "Paint (Legacy)",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.Windows.MSPaint",
+          "GroupName": "Graphics",
+          "Description": "Classic Paint app"
+        }
+      },
+      {
+        "Name": "OpenSSH Client",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "OpenSSH.Client",
+          "GroupName": "Networking",
+          "Description": "Secure Shell client for remote connections"
+        }
+      },
+      {
+        "Name": "OpenSSH Server",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "OpenSSH.Server",
+          "GroupName": "Networking",
+          "Description": "Secure Shell server for remote connections"
+        }
+      },
+      {
+        "Name": "Subsystem for Linux",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft-Windows-Subsystem-Linux",
+          "GroupName": "Development",
+          "Description": "Allows running Linux binary executables natively on Windows"
+        }
+      },
+      {
+        "Name": "Windows Hypervisor Platform",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft-Hyper-V-Hypervisor",
+          "GroupName": "Virtualization",
+          "Description": "Core virtualization platform without Hyper-V management tools"
+        }
+      },
+      {
+        "Name": "Hyper-V",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft-Hyper-V-All",
+          "GroupName": "Virtualization",
+          "Description": "Virtualization platform for running multiple operating systems"
+        }
+      },
+      {
+        "Name": "Hyper-V Management Tools",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft-Hyper-V-Tools-All",
+          "GroupName": "Virtualization",
+          "Description": "Tools for managing Hyper-V virtual machines"
+        }
+      },
+      {
+        "Name": ".NET Framework 3.5",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "NetFx3",
+          "GroupName": "Development",
+          "Description": "Legacy .NET Framework for older applications"
+        }
+      },
+      {
+        "Name": "Windows Sandbox",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Containers-DisposableClientVM",
+          "GroupName": "Security",
+          "Description": "Isolated desktop environment for running applications"
+        }
+      },
+      {
+        "Name": "Recall",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Recall",
+          "GroupName": "System",
+          "Description": "Windows 11 feature that records user activity"
+        }
+      }
+    ],
+    "Description": "Windows built-in applications",
+    "Icon": null
+  },
+  "ExternalApps": {
+    "IsIncluded": true,
+    "Items": [
+      {
+        "Name": "Microsoft Edge WebView",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.EdgeWebView2Runtime",
+          "GroupName": "Browsers",
+          "Description": "WebView2 runtime for Windows applications"
+        }
+      },
+      {
+        "Name": "Thorium",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Alex313031.Thorium",
+          "GroupName": "Browsers",
+          "Description": "Chromium-based browser with enhanced privacy features"
+        }
+      },
+      {
+        "Name": "Thorium AVX2",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Alex313031.Thorium.AVX2",
+          "GroupName": "Browsers",
+          "Description": "Chromium-based browser with enhanced privacy features"
+        }
+      },
+      {
+        "Name": "Mercury",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Alex313031.Mercury",
+          "GroupName": "Browsers",
+          "Description": "Compiler optimized, private Firefox fork"
+        }
+      },
+      {
+        "Name": "Firefox",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Mozilla.Firefox",
+          "GroupName": "Browsers",
+          "Description": "Popular web browser known for privacy and customization"
+        }
+      },
+      {
+        "Name": "Chrome",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Google.Chrome",
+          "GroupName": "Browsers",
+          "Description": "Google's web browser with sync and extension support"
+        }
+      },
+      {
+        "Name": "Ungoogled Chromium",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Eloston.Ungoogled-Chromium",
+          "GroupName": "Browsers",
+          "Description": "Chromium-based browser with privacy enhancements"
+        }
+      },
+      {
+        "Name": "Brave",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Brave.Brave",
+          "GroupName": "Browsers",
+          "Description": "Privacy-focused browser with built-in ad blocking"
+        }
+      },
+      {
+        "Name": "Opera",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Opera.Opera",
+          "GroupName": "Browsers",
+          "Description": "Feature-rich web browser with built-in VPN and ad blocker"
+        }
+      },
+      {
+        "Name": "Opera GX",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Opera.OperaGX",
+          "GroupName": "Browsers",
+          "Description": "Gaming-oriented version of Opera with unique features"
+        }
+      },
+      {
+        "Name": "Arc Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "TheBrowserCompany.Arc",
+          "GroupName": "Browsers",
+          "Description": "Innovative browser with a focus on design and user experience"
+        }
+      },
+      {
+        "Name": "Tor Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "TorProject.TorBrowser",
+          "GroupName": "Browsers",
+          "Description": "Privacy-focused browser that routes traffic through the Tor network"
+        }
+      },
+      {
+        "Name": "Vivaldi",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Vivaldi.Vivaldi",
+          "GroupName": "Browsers",
+          "Description": "Highly customizable browser with a focus on user control"
+        }
+      },
+      {
+        "Name": "Waterfox",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Waterfox.Waterfox",
+          "GroupName": "Browsers",
+          "Description": "Firefox-based browser with a focus on privacy and customization"
+        }
+      },
+      {
+        "Name": "Zen Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Zen-Team.Zen-Browser",
+          "GroupName": "Browsers",
+          "Description": "Privacy-focused browser with built-in ad blocking"
+        }
+      },
+      {
+        "Name": "Mullvad Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "MullvadVPN.MullvadBrowser",
+          "GroupName": "Browsers",
+          "Description": "Privacy-focused browser designed to minimize tracking and fingerprints"
+        }
+      },
+      {
+        "Name": "Pale Moon Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "MoonchildProductions.PaleMoon",
+          "GroupName": "Browsers",
+          "Description": "Open Source, Goanna-based web browser focusing on efficiency and customization"
+        }
+      },
+      {
+        "Name": "Maxthon Browser",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Maxthon.Maxthon",
+          "GroupName": "Browsers",
+          "Description": "Privacy focused browser with built-in ad blocking and VPN"
+        }
+      },
+      {
+        "Name": "Floorp",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Ablaze.Floorp",
+          "GroupName": "Browsers",
+          "Description": "Privacy focused browser with strong tracking protection"
+        }
+      },
+      {
+        "Name": "DuckDuckGo",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "DuckDuckGo.DesktopBrowser",
+          "GroupName": "Browsers",
+          "Description": "Privacy-focused search engine with a browser extension"
+        }
+      },
+      {
+        "Name": "LibreOffice",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "TheDocumentFoundation.LibreOffice",
+          "GroupName": "Document Viewers",
+          "Description": "Free and open-source office suite"
+        }
+      },
+      {
+        "Name": "ONLYOFFICE Desktop Editors",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "ONLYOFFICE.DesktopEditors",
+          "GroupName": "Document Viewers",
+          "Description": "100% open-source free alternative to Microsoft Office"
+        }
+      },
+      {
+        "Name": "Foxit Reader",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Foxit.FoxitReader",
+          "GroupName": "Document Viewers",
+          "Description": "Lightweight PDF reader with advanced features"
+        }
+      },
+      {
+        "Name": "SumatraPDF",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "SumatraPDF.SumatraPDF",
+          "GroupName": "Document Viewers",
+          "Description": "PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows"
+        }
+      },
+      {
+        "Name": "OpenOffice",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Apache.OpenOffice",
+          "GroupName": "Document Viewers",
+          "Description": "Discontinued open-source office suite. Active successor projects is LibreOffice"
+        }
+      },
+      {
+        "Name": "Adobe Acrobat Reader DC",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XPDP273C0XHQH2",
+          "GroupName": "Document Viewers",
+          "Description": "PDF reader and editor"
+        }
+      },
+      {
+        "Name": "Evernote",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Evernote.Evernote",
+          "GroupName": "Document Viewers",
+          "Description": "Note-taking app"
+        }
+      },
+      {
+        "Name": "Google Drive",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Google.GoogleDrive",
+          "GroupName": "Online Storage",
+          "Description": "Cloud storage and file synchronization service"
+        }
+      },
+      {
+        "Name": "Dropbox",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Dropbox.Dropbox",
+          "GroupName": "Online Storage",
+          "Description": "File hosting service that offers cloud storage, file synchronization, personal cloud"
+        }
+      },
+      {
+        "Name": "SugarSync",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "IPVanish.SugarSync",
+          "GroupName": "Online Storage",
+          "Description": "Automatically access and share your photos, videos, and files in any folder"
+        }
+      },
+      {
+        "Name": "NextCloud",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Nextcloud.NextcloudDesktop",
+          "GroupName": "Online Storage",
+          "Description": "Access, share and protect your files, calendars, contacts, communication & more at home and in your organization"
+        }
+      },
+      {
+        "Name": "Proton Drive",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Proton.ProtonDrive",
+          "GroupName": "Online Storage",
+          "Description": "Secure cloud storage with end-to-end encryption"
+        }
+      },
+      {
+        "Name": "Python 3.13",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Python.Python.3.13",
+          "GroupName": "Development Apps",
+          "Description": "Python programming language"
+        }
+      },
+      {
+        "Name": "Notepad++",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Notepad++.Notepad++",
+          "GroupName": "Development Apps",
+          "Description": "Free source code editor and Notepad replacement"
+        }
+      },
+      {
+        "Name": "WinSCP",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "WinSCP.WinSCP",
+          "GroupName": "Development Apps",
+          "Description": "Free SFTP, SCP, Amazon S3, WebDAV, and FTP client"
+        }
+      },
+      {
+        "Name": "PuTTY",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "PuTTY.PuTTY",
+          "GroupName": "Development Apps",
+          "Description": "Free SSH and telnet client"
+        }
+      },
+      {
+        "Name": "WinMerge",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "WinMerge.WinMerge",
+          "GroupName": "Development Apps",
+          "Description": "Open source differencing and merging tool"
+        }
+      },
+      {
+        "Name": "Eclipse",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "EclipseFoundation.EclipseIDEforJavaDevelopers",
+          "GroupName": "Development Apps",
+          "Description": "Java IDE and development platform"
+        }
+      },
+      {
+        "Name": "Visual Studio Code",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.VisualStudioCode",
+          "GroupName": "Development Apps",
+          "Description": "Code editor with support for development operations"
+        }
+      },
+      {
+        "Name": "Git",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Git.Git",
+          "GroupName": "Development Apps",
+          "Description": "Distributed version control system"
+        }
+      },
+      {
+        "Name": "GitHub Desktop",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "GitHub.GitHubDesktop",
+          "GroupName": "Development Apps",
+          "Description": "GitHub desktop client"
+        }
+      },
+      {
+        "Name": "AutoHotkey",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "AutoHotkey.AutoHotkey",
+          "GroupName": "Development Apps",
+          "Description": "Scripting language for desktop automation"
+        }
+      },
+      {
+        "Name": "Windsurf",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Codeium.Windsurf",
+          "GroupName": "Development Apps",
+          "Description": "AI Code Editor"
+        }
+      },
+      {
+        "Name": "Cursor",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Anysphere.Cursor",
+          "GroupName": "Development Apps",
+          "Description": "AI Code Editor"
+        }
+      },
+      {
+        "Name": "VLC",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "VideoLAN.VLC",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Open-source multimedia player and framework"
+        }
+      },
+      {
+        "Name": "iTunes",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Apple.iTunes",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Media player and library"
+        }
+      },
+      {
+        "Name": "AIMP",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "AIMP.AIMP",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Audio player with support for various formats"
+        }
+      },
+      {
+        "Name": "foobar2000",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "PeterPawlowski.foobar2000",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Advanced audio player for Windows"
+        }
+      },
+      {
+        "Name": "MusicBee",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9P4CLT2RJ1RS",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Music manager and player"
+        }
+      },
+      {
+        "Name": "Audacity",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Audacity.Audacity",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Audio editor and recorder"
+        }
+      },
+      {
+        "Name": "GOM",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "GOMLab.GOMPlayer",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Media player for Windows"
+        }
+      },
+      {
+        "Name": "Spotify",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Spotify.Spotify",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Music streaming service"
+        }
+      },
+      {
+        "Name": "MediaMonkey",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "VentisMedia.MediaMonkey.5",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Media manager and player"
+        }
+      },
+      {
+        "Name": "HandBrake",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "HandBrake.HandBrake",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Open-source video transcoder"
+        }
+      },
+      {
+        "Name": "OBS Studio",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "OBSProject.OBSStudio",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Free and open source software for video recording and live streaming"
+        }
+      },
+      {
+        "Name": "Streamlabs OBS",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Streamlabs.StreamlabsOBS",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Streaming software built on OBS with additional features for streamers"
+        }
+      },
+      {
+        "Name": "MPC-BE",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "MPC-BE.MPC-BE",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Media Player Classic - Black Edition"
+        }
+      },
+      {
+        "Name": "K-Lite Codec Pack (Mega)",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "CodecGuide.K-LiteCodecPack.Mega",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Collection of codecs and related tools"
+        }
+      },
+      {
+        "Name": "CapCut",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "ByteDance.CapCut",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Video editor"
+        }
+      },
+      {
+        "Name": "PotPlayer",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Daum.PotPlayer",
+          "GroupName": "Multimedia (Audio & Video)",
+          "Description": "Comprehensive multimedia player for Windows"
+        }
+      },
+      {
+        "Name": "IrfanView",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "IrfanSkiljan.IrfanView",
+          "GroupName": "Imaging",
+          "Description": "Fast and compact image viewer and converter"
+        }
+      },
+      {
+        "Name": "Krita",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "KDE.Krita",
+          "GroupName": "Imaging",
+          "Description": "Digital painting and illustration software"
+        }
+      },
+      {
+        "Name": "Blender",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "BlenderFoundation.Blender",
+          "GroupName": "Imaging",
+          "Description": "3D creation suite"
+        }
+      },
+      {
+        "Name": "Paint.NET",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "dotPDN.PaintDotNet",
+          "GroupName": "Imaging",
+          "Description": "Image and photo editing software"
+        }
+      },
+      {
+        "Name": "GIMP",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "GIMP.GIMP.3",
+          "GroupName": "Imaging",
+          "Description": "GNU Image Manipulation Program"
+        }
+      },
+      {
+        "Name": "XnViewMP",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XnSoft.XnViewMP",
+          "GroupName": "Imaging",
+          "Description": "Image viewer, browser and converter"
+        }
+      },
+      {
+        "Name": "XnView Classic",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XnSoft.XnView.Classic",
+          "GroupName": "Imaging",
+          "Description": "Image viewer, browser and converter (Classic Version)"
+        }
+      },
+      {
+        "Name": "Inkscape",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Inkscape.Inkscape",
+          "GroupName": "Imaging",
+          "Description": "Vector graphics editor"
+        }
+      },
+      {
+        "Name": "Greenshot",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Greenshot.Greenshot",
+          "GroupName": "Imaging",
+          "Description": "Screenshot tool with annotation features"
+        }
+      },
+      {
+        "Name": "ShareX",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "ShareX.ShareX",
+          "GroupName": "Imaging",
+          "Description": "Screen capture, file sharing and productivity tool"
+        }
+      },
+      {
+        "Name": "Flameshot",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Flameshot.Flameshot",
+          "GroupName": "Imaging",
+          "Description": "Powerful yet simple to use screenshot software"
+        }
+      },
+      {
+        "Name": "FastStone",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "FastStone.Viewer",
+          "GroupName": "Imaging",
+          "Description": "Image browser, converter and editor"
+        }
+      },
+      {
+        "Name": "7-Zip",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "7zip.7zip",
+          "GroupName": "Compression",
+          "Description": "Open-source file archiver with a high compression ratio"
+        }
+      },
+      {
+        "Name": "WinRAR",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RARLab.WinRAR",
+          "GroupName": "Compression",
+          "Description": "File archiver with a high compression ratio"
+        }
+      },
+      {
+        "Name": "PeaZip",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Giorgiotani.Peazip",
+          "GroupName": "Compression",
+          "Description": "Free file archiver utility. Open and extract RAR, TAR, ZIP files and more"
+        }
+      },
+      {
+        "Name": "NanaZip",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "M2Team.NanaZip",
+          "GroupName": "Compression",
+          "Description": "Open source fork of 7-zip intended for the modern Windows experience"
+        }
+      },
+      {
+        "Name": "Telegram",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Telegram.TelegramDesktop",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Instant messaging and voice calling app"
+        }
+      },
+      {
+        "Name": "Whatsapp",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "9NKSQGP7F2NH",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Instant messaging and voice calling app"
+        }
+      },
+      {
+        "Name": "Zoom",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Zoom.Zoom",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Video conferencing and messaging platform"
+        }
+      },
+      {
+        "Name": "Discord",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Discord.Discord",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Voice, video and text communication service"
+        }
+      },
+      {
+        "Name": "Pidgin",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Pidgin.Pidgin",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Multi-protocol instant messaging client"
+        }
+      },
+      {
+        "Name": "Thunderbird",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Mozilla.Thunderbird",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Free email application"
+        }
+      },
+      {
+        "Name": "eMClient",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "eMClient.eMClient",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Email client with calendar, tasks, and chat"
+        }
+      },
+      {
+        "Name": "Proton Mail",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Proton.ProtonMail",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Secure email service with end-to-end encryption"
+        }
+      },
+      {
+        "Name": "Trillian",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "CeruleanStudios.Trillian",
+          "GroupName": "Messaging, Email & Calendar",
+          "Description": "Instant messaging application"
+        }
+      },
+      {
+        "Name": "WinDirStat",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "WinDirStat.WinDirStat",
+          "GroupName": "File & Disk Management",
+          "Description": "Disk usage statistics viewer and cleanup tool"
+        }
+      },
+      {
+        "Name": "WizTree",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "AntibodySoftware.WizTree",
+          "GroupName": "File & Disk Management",
+          "Description": "Disk space analyzer with extremely fast scanning"
+        }
+      },
+      {
+        "Name": "TreeSize Free",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "JAMSoftware.TreeSize.Free",
+          "GroupName": "File & Disk Management",
+          "Description": "Disk space manager"
+        }
+      },
+      {
+        "Name": "Everything",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "voidtools.Everything",
+          "GroupName": "File & Disk Management",
+          "Description": "Locate files and folders by name instantly"
+        }
+      },
+      {
+        "Name": "TeraCopy",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "CodeSector.TeraCopy",
+          "GroupName": "File & Disk Management",
+          "Description": "Copy files faster and more securely"
+        }
+      },
+      {
+        "Name": "File Converter",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "AdrienAllard.FileConverter",
+          "GroupName": "File & Disk Management",
+          "Description": "Batch file converter for Windows"
+        }
+      },
+      {
+        "Name": "Crystal Disk Info",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "WsSolInfor.CrystalDiskInfo",
+          "GroupName": "File & Disk Management",
+          "Description": "Hard drive health monitoring utility"
+        }
+      },
+      {
+        "Name": "Bulk Rename Utility",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "TGRMNSoftware.BulkRenameUtility",
+          "GroupName": "File & Disk Management",
+          "Description": "File renaming software for Windows"
+        }
+      },
+      {
+        "Name": "IObit Unlocker",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "IObit.IObitUnlocker",
+          "GroupName": "File & Disk Management",
+          "Description": "Tool to unlock files that are in use by other processes"
+        }
+      },
+      {
+        "Name": "Ventoy",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Ventoy.Ventoy",
+          "GroupName": "File & Disk Management",
+          "Description": "Open source tool to create bootable USB drive for ISO files"
+        }
+      },
+      {
+        "Name": "Volume2",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "irzyxa.Volume2Portable",
+          "GroupName": "File & Disk Management",
+          "Description": "Advanced Windows volume control"
+        }
+      },
+      {
+        "Name": "RustDesk",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RustDesk.RustDesk",
+          "GroupName": "Remote Access",
+          "Description": "Fast Open-Source Remote Access and Support Software"
+        }
+      },
+      {
+        "Name": "Input Leap",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "input-leap.input-leap",
+          "GroupName": "Remote Access",
+          "Description": "Open-source KVM software for sharing mouse and keyboard between computers"
+        }
+      },
+      {
+        "Name": "AnyDesk",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "AnyDesk.AnyDesk",
+          "GroupName": "Remote Access",
+          "Description": "Remote desktop software for remote access and support"
+        }
+      },
+      {
+        "Name": "TeamViewer 15",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "TeamViewer.TeamViewer",
+          "GroupName": "Remote Access",
+          "Description": "Remote control, desktop sharing, online meetings, web conferencing and file transfer"
+        }
+      },
+      {
+        "Name": "RealVNC Server",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RealVNC.VNCServer",
+          "GroupName": "Remote Access",
+          "Description": "Remote access software"
+        }
+      },
+      {
+        "Name": "RealVNC Viewer",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RealVNC.VNCViewer",
+          "GroupName": "Remote Access",
+          "Description": "Remote access software"
+        }
+      },
+      {
+        "Name": "Chrome Remote Desktop Host",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Google.ChromeRemoteDesktopHost",
+          "GroupName": "Remote Access",
+          "Description": "Remote access to your computer through Chrome browser"
+        }
+      },
+      {
+        "Name": "CDBurnerXP",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "GroupName": "Optical Disc Tools",
+          "Description": "Application to burn CDs and DVDs"
+        }
+      },
+      {
+        "Name": "ImgBurn",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "LIGHTNINGUK.ImgBurn",
+          "GroupName": "Optical Disc Tools",
+          "Description": "Lightweight CD / DVD / HD DVD / Blu-ray burning application"
+        }
+      },
+      {
+        "Name": "AnyBurn",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "PowerSoftware.AnyBurn",
+          "GroupName": "Optical Disc Tools",
+          "Description": "Lightweight CD/DVD/Blu-ray burning software"
+        }
+      },
+      {
+        "Name": "Snappy Driver Installer Origin",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "GlennDelahoy.SnappyDriverInstallerOrigin",
+          "GroupName": "Other Utilities",
+          "Description": "Driver installer and updater"
+        }
+      },
+      {
+        "Name": "Wise Registry Cleaner",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "XPDLS1XBTXVPP4",
+          "GroupName": "Other Utilities",
+          "Description": "Registry cleaning and optimization tool"
+        }
+      },
+      {
+        "Name": "UniGetUI",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "MartiCliment.UniGetUI",
+          "GroupName": "Other Utilities",
+          "Description": "Universal package manager interface supporting WinGet, Chocolatey, and more"
+        }
+      },
+      {
+        "Name": "Google Earth",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Google.GoogleEarthPro",
+          "GroupName": "Other Utilities",
+          "Description": "3D representation of Earth based on satellite imagery"
+        }
+      },
+      {
+        "Name": "NV Access",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "NVAccess.NVDA",
+          "GroupName": "Other Utilities",
+          "Description": "Screen reader for blind and vision impaired users"
+        }
+      },
+      {
+        "Name": "Revo Uninstaller",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RevoUninstaller.RevoUninstaller",
+          "GroupName": "Other Utilities",
+          "Description": "Uninstaller with advanced features"
+        }
+      },
+      {
+        "Name": "Bulk Crap Uninstaller",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Klocman.BulkCrapUninstaller",
+          "GroupName": "Other Utilities",
+          "Description": "Free and open-source program uninstaller with advanced features"
+        }
+      },
+      {
+        "Name": "Text Grab",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "JosephFinney.Text-Grab",
+          "GroupName": "Other Utilities",
+          "Description": "Tool for extracting text from images and screenshots"
+        }
+      },
+      {
+        "Name": "Glary Utilities",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Glarysoft.GlaryUtilities",
+          "GroupName": "Other Utilities",
+          "Description": "All-in-one PC care utility"
+        }
+      },
+      {
+        "Name": "Buzz",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "ChidiWilliams.Buzz",
+          "GroupName": "Other Utilities",
+          "Description": "AI video & audio transcription tool"
+        }
+      },
+      {
+        "Name": "PowerToys",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Microsoft.PowerToys",
+          "GroupName": "Other Utilities",
+          "Description": "Windows system utilities to maximize productivity"
+        }
+      },
+      {
+        "Name": "Nilesoft Shell",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Nilesoft.Shell",
+          "GroupName": "Customization Utilities",
+          "Description": "Windows context menu customization tool"
+        }
+      },
+      {
+        "Name": "StartAllBack",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "StartIsBack.StartAllBack",
+          "GroupName": "Customization Utilities",
+          "Description": "Windows 11 Start menu and taskbar customization"
+        }
+      },
+      {
+        "Name": "Open-Shell",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Open-Shell.Open-Shell-Menu",
+          "GroupName": "Customization Utilities",
+          "Description": "Classic style Start Menu for Windows"
+        }
+      },
+      {
+        "Name": "Windhawk",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "RamenSoftware.Windhawk",
+          "GroupName": "Customization Utilities",
+          "Description": "Customization platform for Windows"
+        }
+      },
+      {
+        "Name": "Lively Wallpaper",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "rocksdanister.LivelyWallpaper",
+          "GroupName": "Customization Utilities",
+          "Description": "Free and open-source animated desktop wallpaper application"
+        }
+      },
+      {
+        "Name": "Sucrose Wallpaper Engine",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Taiizor.SucroseWallpaperEngine",
+          "GroupName": "Customization Utilities",
+          "Description": "Free and open-source animated desktop wallpaper application"
+        }
+      },
+      {
+        "Name": "Rainmeter",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Rainmeter.Rainmeter",
+          "GroupName": "Customization Utilities",
+          "Description": "Desktop customization tool for Windows"
+        }
+      },
+      {
+        "Name": "ExplorerPatcher",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "valinet.ExplorerPatcher",
+          "GroupName": "Customization Utilities",
+          "Description": "Utility that enhances the Windows Explorer experience"
+        }
+      },
+      {
+        "Name": "Steam",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Valve.Steam",
+          "GroupName": "Gaming",
+          "Description": "Digital distribution platform for PC gaming"
+        }
+      },
+      {
+        "Name": "Epic Games Launcher",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "EpicGames.EpicGamesLauncher",
+          "GroupName": "Gaming",
+          "Description": "Digital distribution platform for PC gaming"
+        }
+      },
+      {
+        "Name": "EA Desktop App",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "ElectronicArts.EADesktop",
+          "GroupName": "Gaming",
+          "Description": "Digital distribution platform for PC gaming"
+        }
+      },
+      {
+        "Name": "Ubisoft Connect",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Ubisoft.Connect",
+          "GroupName": "Gaming",
+          "Description": "Digital distribution platform for PC gaming"
+        }
+      },
+      {
+        "Name": "Battle.net",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Blizzard.BattleNet",
+          "GroupName": "Gaming",
+          "Description": "Digital distribution platform for PC gaming"
+        }
+      },
+      {
+        "Name": "Malwarebytes",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Malwarebytes.Malwarebytes",
+          "GroupName": "Privacy & Security",
+          "Description": "Anti-malware software for Windows"
+        }
+      },
+      {
+        "Name": "Malwarebytes AdwCleaner",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Malwarebytes.AdwCleaner",
+          "GroupName": "Privacy & Security",
+          "Description": "Adware removal tool for Windows"
+        }
+      },
+      {
+        "Name": "SUPERAntiSpyware",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "SUPERAntiSpyware.SUPERAntiSpyware",
+          "GroupName": "Privacy & Security",
+          "Description": "Anti-spyware software for Windows"
+        }
+      },
+      {
+        "Name": "ProtonVPN",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Proton.ProtonVPN",
+          "GroupName": "Privacy & Security",
+          "Description": "Secure and private VPN service"
+        }
+      },
+      {
+        "Name": "KeePass 2",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "DominikReichl.KeePass",
+          "GroupName": "Privacy & Security",
+          "Description": "Free, open source, light-weight password manager"
+        }
+      },
+      {
+        "Name": "Proton Pass",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Proton.ProtonPass",
+          "GroupName": "Privacy & Security",
+          "Description": "Secure password manager with end-to-end encryption"
+        }
+      },
+      {
+        "Name": "Bitwarden",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Bitwarden.Bitwarden",
+          "GroupName": "Privacy & Security",
+          "Description": "Open source password manager"
+        }
+      },
+      {
+        "Name": "KeePassXC",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "KeePassXCTeam.KeePassXC",
+          "GroupName": "Privacy & Security",
+          "Description": "Cross-platform secure password manager"
+        }
+      },
+      {
+        "Name": "Tailscale",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "Tailscale.Tailscale",
+          "GroupName": "Privacy & Security",
+          "Description": "Zero config VPN for building secure networks"
+        }
+      }
+    ],
+    "Description": "Third-party applications",
+    "Icon": null
+  },
+  "Customize": {
+    "IsIncluded": true,
+    "Items": [
+      {
+        "Name": "Copilot Button",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-copilot",
+          "Description": "Controls Copilot button visibility in taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Left Aligned Taskbar",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-left-align",
+          "Description": "Controls taskbar icons alignment",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Meet Now Button",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-meet-now-group",
+          "Description": "Controls Meet Now button visibility in taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Search in Taskbar",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-search-box",
+          "Description": "Controls search box visibility in taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Hidden System Tray Icons (W10 Only)",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-system-tray-icons",
+          "Description": "Controls whether system tray icons are shown in the taskbar or hidden in the chevron menu",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Task View Button",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-task-view",
+          "Description": "Controls Task View button visibility in taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Windows Chat Icon",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-chat-icon",
+          "Description": "Controls Windows Chat icon visibility and menu behavior in taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Lock Option",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-lock-option",
+          "Description": "Controls whether the lock option is shown in the Start menu",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Set 'More Pins' Layout",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "start-menu-layout",
+          "Description": "Controls Start Menu layout configuration",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Most Used Apps",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "taskbar-clear-mfu",
+          "Description": "Controls frequently used programs list visibility",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Recently Added Apps",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "show-recently-added-apps",
+          "Description": "Controls visibility of recently added apps in Start Menu",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Recommended Files",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "show-recommended-files",
+          "Description": "Controls visibility of recommended files in Start Menu",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Recommended Tips, Shortcuts etc.",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "start-menu-recommendations",
+          "Description": "Controls recommendations for tips and shortcuts",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "3D Objects",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-3d-objects",
+          "Description": "Controls 3D Objects folder visibility in This PC",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Classic Context Menu",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-context-menu",
+          "Description": "Controls context menu style (classic or modern)",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "DPI Scaling (100%)",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-dpi-scaling",
+          "Description": "Controls DPI scaling setting",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Drop Shadows",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-drop-shadows",
+          "Description": "Controls drop shadows for icon labels",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Folder Tips",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-folder-tips",
+          "Description": "Controls file size information in folder tips",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Font Smoothing",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-font-smoothing",
+          "Description": "Controls smooth edges of screen fonts",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Full Path in Title Bar",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-full-path",
+          "Description": "Controls full path display in the title bar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Gallery in Navigation Pane",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-gallery",
+          "Description": "Controls gallery visibility in navigation pane",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Hide Protected Operating System Files",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-hide-protected-files",
+          "Description": "Controls visibility of protected operating system files",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Home Folder in Navigation Pane",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-home-folder",
+          "Description": "Controls Home Folder visibility in Navigation Pane",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Launch to This PC",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-launch-to",
+          "Description": "Controls where File Explorer opens by default",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Lock Screen",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-lock-screen",
+          "Description": "Controls lock screen visibility",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Per-Process DPI",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-per-process-dpi",
+          "Description": "Controls per-process system DPI",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Pop-up Descriptions",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-popup-descriptions",
+          "Description": "Controls pop-up descriptions for folder and desktop items",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Preview Handlers",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-preview-handlers",
+          "Description": "Controls preview handlers in preview pane",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show File Extensions",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-show-file-ext",
+          "Description": "Controls visibility of file name extensions",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Hidden Files, Folders & Drives",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-show-hidden-files",
+          "Description": "Controls visibility of hidden files and folders",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Thumbnails",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-show-thumbnails",
+          "Description": "Controls whether to show thumbnails or icons",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Status Bar",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-status-bar",
+          "Description": "Controls status bar visibility in File Explorer",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Translucent Selection",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-translucent-selection",
+          "Description": "Controls translucent selection rectangle",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Windows Theme",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 2,
+        "SelectedValue": "Dark Mode",
+        "CustomProperties": {
+          "Id": "ThemeSelector",
+          "GroupName": "Windows Theme",
+          "Description": "Select between light and dark theme for Windows",
+          "SliderValue": 0,
+          "SelectedTheme": "Dark Mode",
+          "ChangeWallpaper": false,
+          "ThemeOptions": [
+            "Light Mode",
+            "Dark Mode"
+          ]
+        }
+      }
+    ],
+    "Description": "Windows UI customization settings",
+    "Icon": null
+  },
+  "Optimize": {
+    "IsIncluded": true,
+    "Items": [
+      {
+        "Name": "User Account Control Notification Level",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 5,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "UACDropdown",
+          "GroupName": "Windows Security Settings",
+          "Description": "Controls when Windows notifies you about changes to your computer",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Alt+Tab Filter",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-alt-tab-filter",
+          "GroupName": "File Explorer Settings",
+          "Description": "Sets Alt+Tab to show open windows only",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "CPU Priority for Gaming",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-cpu-priority",
+          "GroupName": "System Performance",
+          "Description": "Controls CPU priority for gaming performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Desktop Composition Effects",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-desktop-composition",
+          "GroupName": "Visual Effects",
+          "Description": "Controls desktop composition effects",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "DirectX Optimizations",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-directx-optimizations",
+          "GroupName": "DirectX",
+          "Description": "Changes DirectX settings for optimal gaming performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Enhanced Pointer Precision",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-mouse-precision",
+          "GroupName": "Mouse Settings",
+          "Description": "Controls enhanced pointer precision (mouse acceleration)",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Fast Startup",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-fast-startup",
+          "GroupName": "Startup",
+          "Description": "Controls fast startup feature",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Game Bar Controller Access",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-game-bar-controller",
+          "GroupName": "Game Bar",
+          "Description": "Allow your controller to open Game Bar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Game Mode",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-game-mode",
+          "GroupName": "Game Mode",
+          "Description": "Controls Game Mode for optimized gaming performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "GPU Priority for Gaming",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-gpu-priority",
+          "GroupName": "System Performance",
+          "Description": "Controls GPU priority for gaming performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Hardware-Accelerated GPU Scheduling",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-gpu-scheduling",
+          "GroupName": "System Performance",
+          "Description": "Controls hardware-accelerated GPU scheduling",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "High Precision Event Timer",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-high-precision-event-timer",
+          "GroupName": "System Performance",
+          "Description": "Controls the High Precision Event Timer (HPET) for improved system performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "High Scheduling Category for Gaming",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-scheduling-category",
+          "GroupName": "System Performance",
+          "Description": "Controls scheduling category for games",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Let Apps Run in Background",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "background-apps",
+          "GroupName": "Background Apps",
+          "Description": "Controls whether apps can run in the background",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Menu Animations",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-menu-animations",
+          "GroupName": "Visual Effects",
+          "Description": "Controls menu animations",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Menu Show Delay",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-menu-show-delay",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls menu show delay",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Mouse Acceleration Threshold 1",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-mouse-threshold1",
+          "GroupName": "Mouse Settings",
+          "Description": "Controls mouse acceleration threshold 1",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Mouse Acceleration Threshold 2",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-mouse-threshold2",
+          "GroupName": "Mouse Settings",
+          "Description": "Controls mouse acceleration threshold 2",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Network Throttling for Gaming",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-network-throttling",
+          "GroupName": "System Performance",
+          "Description": "Controls network throttling for optimal gaming performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Old Nvidia Sharpening",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-nvidia-sharpening",
+          "GroupName": "Nvidia",
+          "Description": "Controls Nvidia sharpening for image quality",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Optimize Background Services",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-background-services",
+          "GroupName": "System Services",
+          "Description": "Controls background services for better performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Optimize File Explorer Search",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-explorer-search",
+          "GroupName": "File Explorer",
+          "Description": "Controls file explorer search indexing",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Optimize Visual Effects",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-visual-effects",
+          "GroupName": "Visual Effects",
+          "Description": "Controls visual effects for best performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Prefetch Feature",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-prefetch",
+          "GroupName": "System Performance",
+          "Description": "Controls Windows prefetch feature",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Remote Assistance",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-remote-assistance",
+          "GroupName": "System Services",
+          "Description": "Controls remote assistance feature",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Set Mouse Sensitivity",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-set-mouse-sensitivity",
+          "GroupName": "File Explorer Settings",
+          "Description": "Sets mouse sensitivity to 10",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Set Smooth Mouse X Curve",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-set-smooth-mouse-x-curve",
+          "GroupName": "File Explorer Settings",
+          "Description": "Sets SmoothMouseXCurve",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Set Smooth Mouse Y Curve",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-set-smooth-mouse-y-curve",
+          "GroupName": "File Explorer Settings",
+          "Description": "Sets SmoothMouseYCurve",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Set Visual Effects",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-set-visual-effects",
+          "GroupName": "File Explorer Settings",
+          "Description": "Sets appearance options to custom",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Startup Delay for Apps",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-autostart-delay",
+          "GroupName": "Startup",
+          "Description": "Controls startup delay for applications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Storage Sense",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-storage-sense",
+          "GroupName": "System Performance",
+          "Description": "Controls Storage Sense functionality",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Superfetch Service",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-superfetch",
+          "GroupName": "System Performance",
+          "Description": "Controls superfetch/SysMain service",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "System Animations",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-animations",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls animations and visual effects",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "System Responsiveness for Games",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-system-responsiveness",
+          "GroupName": "System Performance",
+          "Description": "Controls system responsiveness for multimedia applications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Taskbar Animations",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-taskbar-animations",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls taskbar animations",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "UI Animations",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "performance-animations",
+          "GroupName": "Visual Effects",
+          "Description": "Controls UI animations for improved performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Win32 Priority Separation",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-win32-priority",
+          "GroupName": "System Performance",
+          "Description": "Controls Win32 priority separation for program performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Xbox Game DVR",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "gaming-xbox-game-dvr",
+          "GroupName": "Game Recording",
+          "Description": "Controls Xbox Game DVR functionality",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Account Info Access",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-account-info-access",
+          "GroupName": "App Permissions",
+          "Description": "Controls account information access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Activity History",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-activity-history",
+          "GroupName": "Activity History",
+          "Description": "Controls activity history tracking",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Allow Websites Access to Language List",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-language-list",
+          "GroupName": "General",
+          "Description": "Let websites show me locally relevant content by accessing my language list",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "App Diagnostic Access",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-app-diagnostic-access",
+          "GroupName": "App Permissions",
+          "Description": "Controls app diagnostic access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "App Launch Tracking",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-app-launch-tracking",
+          "GroupName": "General",
+          "Description": "Let Windows improve Start and search results by tracking app launches",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Camera Access",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-camera-access",
+          "GroupName": "App Permissions",
+          "Description": "Controls camera access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Cloud Content Search (Microsoft Account)",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-search-msa-cloud",
+          "GroupName": "Search",
+          "Description": "Controls cloud content search for Microsoft account",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Cloud Content Search (Work/School Acc)",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-search-aad-cloud",
+          "GroupName": "Search",
+          "Description": "Controls cloud content search for work or school account",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Custom Inking and Typing Dictionary",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-inking-typing-dictionary",
+          "GroupName": "Inking and Typing",
+          "Description": "Controls custom inking and typing dictionary (turning off will clear all words in your custom dictionary)",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Improve Inking and Typing",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-improve-inking-typing",
+          "GroupName": "Diagnostics & Feedback",
+          "Description": "Controls inking and typing data collection",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Location Services",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-location-services",
+          "GroupName": "App Permissions",
+          "Description": "Controls location services",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Microphone Access",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-microphone-access",
+          "GroupName": "App Permissions",
+          "Description": "Controls microphone access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Online Speech Recognition",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-speech-recognition",
+          "GroupName": "Speech",
+          "Description": "Controls online speech recognition",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Personalized Ads",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-advertising-id",
+          "GroupName": "Advertising",
+          "Description": "Controls personalized ads using advertising ID",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Send Diagnostic Data",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-diagnostics",
+          "GroupName": "Diagnostics & Feedback",
+          "Description": "Controls diagnostic data collection level",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Settings App Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-settings-notifications",
+          "GroupName": "Settings App",
+          "Description": "Controls notifications in the Settings app and immersive control panel",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Suggested Content in Settings",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-settings-content",
+          "GroupName": "Settings App",
+          "Description": "Controls suggested content in the Settings app",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Tailored Experiences",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-tailored-experiences",
+          "GroupName": "Diagnostics & Feedback",
+          "Description": "Controls personalized experiences with diagnostic data",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Web Search",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "privacy-web-search",
+          "GroupName": "Search",
+          "Description": "Controls web search in Start menu and taskbar",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Auto Update Microsoft Store Apps",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-store-auto-download",
+          "GroupName": "Microsoft Store",
+          "Description": "Controls automatic updates for Microsoft Store apps",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Automatic Archiving of Unused Apps",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-app-archiving",
+          "GroupName": "Microsoft Store",
+          "Description": "Controls automatic archiving of unused apps",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Automatic Windows Updates",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-auto-update",
+          "GroupName": "Windows Update Settings",
+          "Description": "Controls automatic Windows updates behavior",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Delay Feature Updates for 365 Days",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-defer-feature-updates",
+          "GroupName": "Windows Update Policies",
+          "Description": "Delays major Windows feature updates for 365 days",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Delay Security Updates for 7 Days",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-defer-quality-updates",
+          "GroupName": "Windows Update Policies",
+          "Description": "Delays Windows security and quality updates for 7 days",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Delivery Optimization (LAN)",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-delivery-optimization",
+          "GroupName": "Delivery Optimization",
+          "Description": "Controls peer-to-peer update distribution",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Do Not Include Drivers with Updates",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-driver-controls",
+          "GroupName": "Update Content",
+          "Description": "Does not include driver updates with Windows quality updates",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Prevent Automatic Restarts",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-restart-options",
+          "GroupName": "Update Behavior",
+          "Description": "Prevents automatic restarts after installing updates when users are logged on",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Update Notifications",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-notification-level",
+          "GroupName": "Update Behavior",
+          "Description": "Controls the visibility of update notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Updates on Metered Connections",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "updates-metered-connection",
+          "GroupName": "Update Behavior",
+          "Description": "Controls whether updates are downloaded over metered connections",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Hibernate",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-hibernate-enabled",
+          "GroupName": "Power Management",
+          "Description": "Controls whether hibernate is enabled",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "High Video Quality on Battery",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-video-quality",
+          "GroupName": "Display & Graphics",
+          "Description": "Controls video quality when running on battery power",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Fast Boot",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-fast-boot",
+          "GroupName": "Performance",
+          "Description": "Controls whether fast boot (hybrid boot) is enabled",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "CPU Core Unparking",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-cpu-unpark",
+          "GroupName": "Performance",
+          "Description": "Controls CPU core parking for better performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Power Throttling",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "power-throttling",
+          "GroupName": "Performance",
+          "Description": "Controls power throttling for better performance",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Block AAD Workplace Join",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-block-aad-workplace-join",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls 'Allow my organization to manage my device' pop-up",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Clipboard Suggested Actions",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-suggested-actions",
+          "GroupName": "System Interface",
+          "Description": "Controls suggested actions for clipboard content",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Compress Desktop Wallpaper",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "compress-desktop-wallpaper",
+          "GroupName": "Desktop Settings",
+          "Description": "Controls compression of desktop wallpaper",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Default Printer Management",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-windows-manage-printer",
+          "GroupName": "Printer Settings",
+          "Description": "Controls Windows managing default printer",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Desktop Mode on Sign-in",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-desktop-mode-signin",
+          "GroupName": "System Interface",
+          "Description": "Controls whether the system goes to desktop mode on sign-in",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Frequent Folders in Quick Access",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-frequent-folders",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls display of frequent folders in Quick Access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Long Paths Enabled",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-long-paths-enabled",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls support for long file paths (up to 32,767 characters)",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Office Files in Quick Access",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-office-files",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls display of files from Office.com in Quick Access",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Snap Assist",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-disable-snap-assist",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls Snap Assist feature",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Sync Provider Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-disable-sync-provider-notifications",
+          "GroupName": "File Explorer Settings",
+          "Description": "Controls sync provider notifications visibility",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Tablet Mode",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-tablet-mode",
+          "GroupName": "System Interface",
+          "Description": "Controls Tablet Mode",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Typing Insights",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-typing-insights",
+          "GroupName": "Input Settings",
+          "Description": "Controls typing insights and suggestions",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Voice Typing Button",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "explorer-voice-typing",
+          "GroupName": "Input Settings",
+          "Description": "Controls voice typing microphone button",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Capability Access Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-capability-access",
+          "GroupName": "System Notifications",
+          "Description": "Controls capability access notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Clock Change Notifications",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-clock-change",
+          "GroupName": "System Notifications",
+          "Description": "Controls clock change notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Notification Sounds",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-sound",
+          "GroupName": "System Notifications",
+          "Description": "Controls notification sounds",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Notifications On Lock Screen",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-toast-above-lock",
+          "GroupName": "System Notifications",
+          "Description": "Controls notifications above lock screen",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Notify when apps request location",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-app-location-request",
+          "GroupName": "Privacy Notifications",
+          "Description": "Controls wheter notifications are shown for location requests",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Security and Maintenance Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-security-maintenance",
+          "GroupName": "System Notifications",
+          "Description": "Controls security and maintenance notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Show Reminders and VoIP Calls Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-critical-toast-above-lock",
+          "GroupName": "System Notifications",
+          "Description": "Controls critical notifications above lock screen",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Startup App Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-startup-app",
+          "GroupName": "System Notifications",
+          "Description": "Controls startup app notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "System Setting Engagement Notifications",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-system-setting-engagement",
+          "GroupName": "System Notifications",
+          "Description": "Controls system setting engagement notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Windows Notifications",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-toast",
+          "GroupName": "System Notifications",
+          "Description": "Controls toast notifications",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Windows Security Notifications",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "notifications-windows-security",
+          "GroupName": "Security Notifications",
+          "Description": "Controls whether Windows Security notifications are shown",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Last Used Voice Activation Setting",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-voice-activation-last-used",
+          "GroupName": "System Sounds",
+          "Description": "Controls the last used voice activation setting",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Sound Ducking Preference",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-communication-ducking",
+          "GroupName": "System Sounds",
+          "Description": "Controls sound behavior by reducing the volume of other sounds",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Sound Effects and Enhancements",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-effects-enhancements",
+          "GroupName": "Audio Enhancements",
+          "Description": "Controls audio enhancements for playback devices",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Spatial Sound Settings",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-spatial-audio",
+          "GroupName": "Audio Enhancements",
+          "Description": "Controls Windows Sonic and spatial sound features",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Startup Sound During Boot",
+        "PackageName": null,
+        "IsSelected": false,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-startup",
+          "GroupName": "System Sounds",
+          "Description": "Controls the startup sound during boot and for the user",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Voice Activation for Apps",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 0,
+        "SelectedValue": null,
+        "CustomProperties": {
+          "Id": "sound-voice-activation",
+          "GroupName": "System Sounds",
+          "Description": "Controls voice activation for all apps",
+          "SliderValue": 0
+        }
+      },
+      {
+        "Name": "Power Plan",
+        "PackageName": null,
+        "IsSelected": true,
+        "ControlType": 2,
+        "SelectedValue": "Ultimate Performance",
+        "CustomProperties": {
+          "Id": "PowerPlanComboBox",
+          "GroupName": "Power Management",
+          "Description": "Select power plan for your system",
+          "SliderValue": 2
+        }
+      }
+    ],
+    "Description": "Windows optimization settings",
+    "Icon": null
+  }
+}
