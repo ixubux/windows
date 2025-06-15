@@ -1,5 +1,5 @@
 @echo off
-:: Zen File Sorter v2 (fixed) 🌿
+:: Zen File Sorter v2 (fixed)
 :: Creates folders only if files exist inside.
 
 set "DOWNLOADS=%USERPROFILE%\Downloads"
@@ -10,6 +10,7 @@ set "AUDIO=%DOWNLOADS%\Audio"
 set "ARCHIVES=%DOWNLOADS%\Archives"
 set "SCRIPTS=%DOWNLOADS%\Scripts"
 set "APPS=%DOWNLOADS%\Apps"
+set "ISO=%DOWNLOADS%\ISO"
 set "OTHERS=%DOWNLOADS%\Others"
 
 cd /d "%DOWNLOADS%"
@@ -60,7 +61,10 @@ call :move_if_exist "*.zip *.rar *.7z *.tar *.gz *.xz" "%ARCHIVES%"
 call :move_if_exist "*.bat *.ps1 *.sh *.js *.py" "%SCRIPTS%"
 
 :: Apps
-call :move_if_exist "*.exe *.msi *.dmg *.pkg *.deb *.rpm" "%APPS%"
+call :move_if_exist "*.exe *.msi *.dmg *.pkg *.deb *.rpm *.msi" "%APPS%"
+
+:: ISO Files
+call :move_if_exist "*.iso" "%ISO%"
 
 :: Move leftover files with unknown extensions to Others
 for %%F in (*) do (
