@@ -2,31 +2,12 @@
 
 ### This is the structure of this whole repo.
 ```bash
- windows
-├──  'Fuck Adobe'
-│   ├──  block_adobe_firewall.bat
-│   ├──  block_adobe_hosts.bat
-│   ├──  kill_adobe.bat
-│   ├── 󰂺 README.md
-│   ├──  unblock_adobe_firewall.bat
-│   └──  unblock_adobe_hosts.bat
-├── 󰂺 README.md
-├──  Regs
-│   ├──  ixubux.reg
-│   └── 󰂺 README.md
-├──  Scripts
-│   ├──  disable-bloat-service.ps1
-│   ├──  list-disabled-services.ps1
-│   ├──  organizer.bat
-│   ├──  readme.md
-│   ├──  sys_cleanup.bat
-│   └──  winfetch.bat
-└──  'Setting Backups'
-    ├──  ixubux.winhance
-    ├── 󱁻 ooshutup10.cfg
-    └──  readme.md
+windows
+├── Fuck Adobe
+├── Regs
+├── Scripts
+└── Setting Backups
 ```
-
 
 ## **Fuck Adobe**
 This contains all the bat files to make changes after you pirate adobe using GenP (considered as the most solid way to pirate adobe products.)
