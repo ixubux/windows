@@ -43,7 +43,7 @@ endlocal & goto :eof
 setlocal enabledelayedexpansion
 
 :: Documents
-call :move_if_exist "*.pdf *.doc* *.txt *.xls* *.ppt*" "%DOCS%"
+call :move_if_exist "*.pdf *.doc* *.csv *.txt *.xls* *.ppt*" "%DOCS%"
 
 :: Images
 call :move_if_exist "*.jpg *.jpeg *.png *.gif *.bmp *.webp" "%IMAGES%"
@@ -89,3 +89,4 @@ endlocal
 
 echo Downloads sorted with calm clarity...
 timeout /t 2 >nul
+
