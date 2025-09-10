@@ -1,6 +1,6 @@
 {
   "Version": "1.0",
-  "CreatedAt": "2025-06-15T10:33:20.4897464Z",
+  "CreatedAt": "2025-09-10T17:24:31.2437322Z",
   "WindowsApps": {
     "IsIncluded": true,
     "Items": [
@@ -91,7 +91,7 @@
       {
         "Name": "Alarms & Clock",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -127,7 +127,7 @@
       {
         "Name": "Calculator",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -281,7 +281,7 @@
       {
         "Name": "Paint",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -293,7 +293,7 @@
       {
         "Name": "Photos",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -508,7 +508,7 @@
       {
         "Name": "Notepad",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -2597,7 +2597,7 @@
       {
         "Name": "3D Objects",
         "PackageName": null,
-        "IsSelected": true,
+        "IsSelected": false,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
@@ -2789,7 +2789,7 @@
       {
         "Name": "Show Hidden Files, Folders & Drives",
         "PackageName": null,
-        "IsSelected": false,
+        "IsSelected": true,
         "ControlType": 0,
         "SelectedValue": null,
         "CustomProperties": {
